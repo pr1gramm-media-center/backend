@@ -1,2 +1,2 @@
 # backend
-the backend for the server
+the pr1gramm server
